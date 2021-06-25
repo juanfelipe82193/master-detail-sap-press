@@ -1,0 +1,9 @@
+<mvc:View 
+    controllerName="my.app.controller.Main" 
+    xmlns:mvc="sap.ui.core.mvc" 
+    xmlns="sap.m">
+    <SplitApp 
+        busy="true" 
+        id="rootControl" 
+        mode="StretchCompressMode"/>
+</mvc:View>
